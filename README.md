@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Leslie ! Nice to meet you !
+
+👩🏾‍🎓 French student who is aiming to become a bioinformatician/ data-analyt<br/>
+📝 Studied [Biomedical Sciences](https://odf.u-paris.fr/fr/offre-de-formation/licence-XA/sciences-technologies-sante-STS/sciences-biomedicales-K49PSP8F/licence-sciences-biomedicales-JT71H70X.html) at Université Paris Cité, France<br/>
+💬 Currently working on Bioinformatics Stronghold problems in [Rosalind](https://rosalind.info/users/LKVSH/)<br/>
 
 <!--
 **LKVSH/LKVSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
