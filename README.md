@@ -4,6 +4,9 @@
 📝 Studied [Biomedical Sciences](https://odf.u-paris.fr/fr/offre-de-formation/licence-XA/sciences-technologies-sante-STS/sciences-biomedicales-K49PSP8F/licence-sciences-biomedicales-JT71H70X.html) at Université Paris Cité, France<br/>
 💬 Currently working on Bioinformatics Stronghold problems in [Rosalind](https://rosalind.info/users/LKVSH/)<br/>
 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LKVSH&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=moltack)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=moltack)
+
 <!--
 **LKVSH/LKVSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
